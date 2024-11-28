@@ -1,2 +1,2 @@
-# Guess-the-number-comp-
-Made a Guess the number game from the computer in Python
+# Guess-the-number-user-
+Made a Guess the number game from the user in Python
